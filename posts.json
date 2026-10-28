@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "author": "Anna",
+        "date": "2022-10-22",
+        "text": "Tartu 2022",
+        "image": "images/tartu.jpg",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "author": "Mark",
+        "date": "2022-10-02",
+        "text": "Anyone knows in which room is the lab today?",
+        "image": null,
+        "likes": 0
+    },
+    {
+        "id": 3,
+        "author": "Maria",
+        "date": "2026-10-01",
+        "text": "1st homework deadline is coming...",
+        "image": null,
+        "likes": 0
+    },
+    {
+        "id": 4,
+        "author": "Denis",
+        "date": "2026-10-23",
+        "text": "Delta Centre",
+        "image": "images/delta.jpg",
+        "likes": 0
+    },
+    {
+        "id": 5,
+        "author": "Ratmir",
+        "date": "2026-10-05",
+        "text": "Web Application Development\n\nThis course will introduce students to key concepts and technologies for developing modern web applications. The course starts by presenting basic Web technologies and languages (e.g. HTTP, HTML, CSS, Javascript) followed by modern frontend (e.g., Vue.js) and backend development frameworks (e.g., Node.js). Finally, various software testing techniques will be discussed and we will learn how some of them can be used in the context of web applications.",
+        "image": null,
+        "likes": 0
+    },
+    {
+        "id": 6,
+        "author": "Laura",
+        "date": "2026-10-10",
+        "text": "Does anyone want to study together for the next exam?",
+        "image": null,
+        "likes": 0
+    },
+    {
+        "id": 7,
+        "author": "Martin",
+        "date": "2026-10-12",
+        "text": "Coffee break before the next lecture!",
+        "image": "images/Coffee.jpg",
+        "likes": 0
+    },
+    {
+        "id": 8,
+        "author": "Sofia",
+        "date": "2026-10-15",
+        "text": "Finally finished my programming homework!",
+        "image": null,
+        "likes": 0
+    },
+    {
+        "id": 9,
+        "author": "Karl",
+        "date": "2026-10-20",
+        "text": "Beautiful autumn day in Tartu.",
+        "image": "images/autumn.jpg",
+        "likes": 0
+    },
+    {
+        "id": 10,
+        "author": "Emma",
+        "date": "2026-10-25",
+        "text": "Good luck to everyone preparing for exams!",
+        "image": null,
+        "likes": 0
+    }
+]
